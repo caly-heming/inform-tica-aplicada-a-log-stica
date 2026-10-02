@@ -6,8 +6,8 @@
 
 - [Apresentação Pessoal em equipe](#apresentação-pessoal-em-equipe)
 - [Elaboração de gráficos e tabelas com os Dados Abertos da ANTT](#elaboração-de-gráficos-e-tabelas-com-os-dados-abertos-da-antt)
-- [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
-- [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
+- [Uso dos dados da ANTT no Power BI](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
+- [Uso do BI para elaborar um dashboard com nova base de dados - RAIS (API)](#uso-do-bi-para-elaborar-um-dashboard-com-nova-base-de-dados---rais-(api))
 
 ---
 
