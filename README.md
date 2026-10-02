@@ -29,30 +29,23 @@ Usando os dados livres da base da ANTT - que nos foi disponibilizado em aula, eu
 
 ---
 
-## Elaboração de gráficos no Power BI com os dados da ANTT
+## Uso dos dados da ANTT no Power BI
 
 <img width="771" height="428" alt="Power BI com dados da ANTT" src="https://github.com/user-attachments/assets/0a8fc1a8-3750-4e9f-b137-70cc020a1e64" />
 
 [**Acessar arquivo do Power BI**](./EmpresasMultimodais%20Power%20BI.pbix)
 
-Depois de trabalhar com a base da ANTT no Excel, eu utilizei os mesmos dados no Power BI.
-
-Nessa etapa, comecei a desenvolver gráficos mais interativos e a entender melhor como funciona a criação de relatórios dentro do Power BI.
-
-Foi uma atividade importante porque consegui comparar a forma de trabalhar com os dados no Excel e no Power BI. No Power BI, eu consegui deixar as informações mais visuais e interativas, facilitando bastante a análise.
+O BI permite elaborar elementos gráficos dinâmicos nos quais ajudam na leitura e entendimento dos dados - algo que vendo diretamente uma planilha de excel acaba "pesando" para efetuar essa mesma leitura de forma efetiva.
+Apesar de ser um programa que exija um desprendimento de tempo considerável é algo muito importante para profissionais que querem elaborar melhores estratégias.
+Infelizmente não soube elaborar uma apresentação mais interessante e fiquei somente com os dados que elaborei, sem fazer uma apresentação visual mais atrativa.
 
 ---
 
-## Elaboração de gráficos no Power BI com os dados de Brumadinho
+## Uso do BI para elaborar um dashboard com nova base de dados - RAIS (API)
 
 <img width="757" height="421" alt="Power BI com dados de Brumadinho" src="https://github.com/user-attachments/assets/dd6a29b3-08c2-42f9-b4c2-8e0ae6cc900e" />
 
 [**Acessar arquivo do Power BI**](./Cargos%20brumadinho.pbix)
 
-Na última atividade, eu utilizei novamente a base de dados de Brumadinho, mas dessa vez trabalhei diretamente no Power BI.
-
-Diferente da atividade que eu tinha feito antes no Excel, nessa etapa eu criei os gráficos primeiro e, a partir deles, fui elaborando perguntas que poderiam ser respondidas com as informações apresentadas.
-
-Essa atividade foi importante porque reuniu várias coisas que eu já tinha aprendido nas atividades anteriores, como análise de dados, criação de perguntas, utilização de gráficos e interpretação das informações.
-
-No final, consegui perceber melhor a evolução entre trabalhar com uma planilha simples no Excel e depois transformar esses mesmos dados em gráficos e relatórios mais interativos no Power BI.
+Aqui eu estou compartilhando o documento do BI que estou começando a fazer para os processos das segunda e terceira sprints que teremos para o projeto semestral de API.
+Assim como no item anterior ('Uso dos dados da ANTT no Power BI') eu não soube criar uma apresentação boa, usei somente os gráficos/tabelas/mapas que criei utilizando os dados (limpos) da base RAIS que estamos utilizando para fazer o projeto da API.
